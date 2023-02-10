@@ -1,4 +1,3 @@
-# AYoooooo#
 # README for Learning Git #
 
 Important steps for git workflow: 
