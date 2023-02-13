@@ -9,3 +9,4 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 #Making changes on UI for course purposes#
+#Pushing back to remote repo#
